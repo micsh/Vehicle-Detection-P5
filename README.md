@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 ### Training data
-Training data for image patches containing cars and patches that don't contain cars are provided were obtained from [vehicles](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and [non-vehicles](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip).
+Training data for image patches containing cars and no cars, were obtained from this link: [vehicles](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/vehicles.zip) and this: [non-vehicles](https://s3.amazonaws.com/udacity-sdc/Vehicle_Tracking/non-vehicles.zip).
 
 Here's a random sample from them:
 ![cars_not_cars](output_images/cars_not_cars.png)
